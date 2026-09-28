@@ -27,6 +27,7 @@ python3 hello/hello_ioctl.py mnt/10240/a.txt    # 16384 11264
 ## Related
 
 I wrote this project to report this Firefox feature request:
-* <https://connect.mozilla.org/t5/ideas/unable-to-cancel-download-when-firefox-is-moving-part-file/idi-p/139448>
-* <https://youtu.be/vn0RJVk5JS4>
+* Feature request link: <https://connect.mozilla.org/t5/ideas/unable-to-cancel-download-when-firefox-is-moving-part-file/idi-p/139448>
+* Copy of the feature request content: <https://gist.github.com/lxylxy123456/5932ed6071d61e30166f35d85c30fc96>
+* Demo video: <https://youtu.be/vn0RJVk5JS4>
 
